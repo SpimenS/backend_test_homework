@@ -1,1 +1,1 @@
-*.doc
+gi.doc
